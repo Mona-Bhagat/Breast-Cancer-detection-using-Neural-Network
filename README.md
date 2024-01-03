@@ -5,12 +5,12 @@
 
 
 # Project Overview
-This project aims to build a Tumour classification model using Neural Network. The dataset has 30 features which are computed from a digitized image of a fine needle aspirate (FNA) of a breast mass.
+This project aims to build a Tumour classification model using Neural Network. The model diagnostically helps classify whether the tumor is Benign or Malignant.  The dataset has 30 features which are computed from a digitized image of a fine needle aspirate (FNA) of a breast mass.
 
 
 # Data Sources
 The primary dataset used for this analysis is the multivariate type of dataset "breastcancerdata" file. The dataset is publicly available on link -(https://archive.ics.uci.edu/dataset/17/breast+cancer+wisconsin+diagnostic)
-The model diagnostically helps classify whether the tumor is Benign or Malignant.  
+ 
 
 
 # Tools
